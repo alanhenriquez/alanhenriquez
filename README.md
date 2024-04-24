@@ -2,16 +2,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alanhenriquez /alanhenriquez /output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="left">Passionate about web and mobile development, specialized in front-end. My goal is to create captivating digital experiences that combine beauty and functionality.</h4>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://bucket.alanderek.com/uploadeds/octocat-1713930784669.png"  />
+  <img height="300" src="https://alanderek.com/src/octocat-1713930784669.png"  />
 </div>
 
 ###
@@ -156,11 +152,6 @@
 
 <h4 align="left"></h4>
 
-###
-
-<div align="center">
-  <img height="50" src="https://bucket.alanderek.com/uploadeds/gif_pacman.gif"  />
-</div>
 
 ###
 
@@ -179,21 +170,5 @@
 ###
 
 <h4 align="left"></h4>
-
-###
-
-<img align="left" height="150" src="https://bucket.alanderek.com/uploadeds/gif_fogata.gif"  />
-
-###
-
-<img align="left" height="100" src="https://bucket.alanderek.com/uploadeds/gif_fogata.gif"  />
-
-###
-
-<img align="left" height="190" src="https://bucket.alanderek.com/uploadeds/gif_fogata.gif"  />
-
-###
-
-<img align="left" height="70" src="https://bucket.alanderek.com/uploadeds/gif_fogata.gif"  />
 
 ###
